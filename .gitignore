@@ -9,3 +9,5 @@ minisql
 
 # OS-specific
 .DS_Store
+
+.vscode
