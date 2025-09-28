@@ -1,0 +1,11 @@
+# Compiled output
+*.o
+*.out
+minisql
+
+# Debug files
+*.log
+*.swp
+
+# OS-specific
+.DS_Store
